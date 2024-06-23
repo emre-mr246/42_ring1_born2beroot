@@ -11,3 +11,6 @@ The Born2BeRoot project is an assignment offered at Ecole 42 aimed at providing 
 - **Disk Management**: Students learn disk partitioning and file system management.
 
 Born2BeRoot project is designed to deepen students' understanding and experience in system administration and cybersecurity, making it a pivotal part of the Ecole 42 curriculum.
+
+## Score 🥇
+![](https://i.ibb.co/VCjrVZb/success.png)
